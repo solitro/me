@@ -8,7 +8,7 @@ import Contact from "./pages/Contact";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="{https://justinsolitro.com}">
       <Routes>
         <Route index element={<Home />} />
         <Route path="/about" element={<About />} />
