@@ -1,0 +1,14 @@
+#header {
+  color: white;
+  background-color: grey;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.active {
+  background-color: maroon;
+  color: black;
+  text-align: center;
+  flex-grow: 2;
+}
