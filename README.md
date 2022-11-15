@@ -1,3 +1,8 @@
+### Project Description ###
+This project was started to build a Responsive Resume Webpage for myself in order to learn react.
+The initial plan is to create a single page website with tabs using the usestate hook to destroy and render the body of the website while keeping the header.
+
+------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
